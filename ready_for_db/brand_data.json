@@ -1,0 +1,19 @@
+{
+	"brandWebsiteUrl" : "https://www.verpan.com/",
+	"name": "VERPAN",
+	"address": {
+		"street": "Egeskovvej 29",
+		"city": "Horsens",
+		"region": null,
+		"zipcode": "DK-8700",
+		"country": "Danemark"
+	},
+	"phone": "+45 7658 1882",
+	"defaultProductType": ["Furniture", "Lighting"],
+	"logo": "./ready_for_db/images/logo.png",
+	"pictures": [
+		"./ready_for_db/images/1.jpeg",
+		"./ready_for_db/images/2.jpeg"
+	],
+	"description": "VERPAN is a Danish furniture and lighting manufacturer dedicated to the works of Danish design icon, Verner Panton. In close collaboration with the Panton estate, VERPAN has acquired the exclusive rights to a significant part of Verner Panton’s iconic furniture, lighting and accessories - designs that all bring life, movement, colour and light into homes, offices and public spaces."
+}
